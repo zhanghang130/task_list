@@ -1,5 +1,5 @@
-# task_list；四象限桌面任务挂件
-四象限任务清单，桌面组件，极简功能；Four-quadrant task list, desktop component, minimalist function
+# task_list；四象限任务清单；桌面组件
+四象限任务清单，桌面组件，极简功能；Four-quadrant todo list, desktop component, minimalist function
 
 ## 程序说明
 这是一个桌面任务管理工具，基于艾森豪威尔矩阵（四象限法）设计，帮助您高效管理任务。
