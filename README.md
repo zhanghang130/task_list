@@ -47,8 +47,10 @@
 - 数据导出为 CSV 格式，可用 Excel 打开
 
 ## 预览
-![截图](./images/img1.png)
-![截图2](./images/img2.png)
+| | |
+| :---: | :---: |
+| <img src="./images/img1.png" alt="截图1" width="50%" /> | <img src="./images/img2.png" alt="截图2" width="50%" />  |
+
 ---
 
 版本: 1.0
