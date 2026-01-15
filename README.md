@@ -49,7 +49,7 @@
 ## 预览
 | | |
 | :---: | :---: |
-| <img src="./images/img1.png" alt="截图1" width="50%" /> | <img src="./images/img2.png" alt="截图2" width="50%" />  |
+| <img src="./images/截图.png" alt="截图1" width="50%" /> | <img src="./images/img2.png" alt="截图2" width="50%" />  |
 
 ---
 
